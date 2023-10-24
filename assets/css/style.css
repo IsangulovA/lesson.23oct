@@ -28,3 +28,6 @@
     display: flex;
     flex-flow: row nowrap;
 }
+.callback {
+    margin-left: 30px;
+}
