@@ -23,3 +23,8 @@
     display: inline-block;
 
 }
+
+.navbar-wrap {
+    display: flex;
+    flex-flow: row nowrap;
+}
