@@ -25,6 +25,7 @@
     opacity: 0.6;
     text-decoration: none;
     padding: 10px;
+    transition: all .07s ease-in-out;
 
 }
 
